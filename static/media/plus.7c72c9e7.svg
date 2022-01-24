@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>加</title>
+    <g id="盲盒" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1290.000000, -586.000000)" id="编组-20">
+            <g transform="translate(1111.000000, 515.000000)">
+                <g id="编组-19" transform="translate(30.000000, 71.000000)">
+                    <g id="加" transform="translate(149.000000, 0.000000)">
+                        <rect id="矩形备份-8" stroke="#E2EEF1" fill="#F9FBFC" x="0.5" y="0.5" width="35" height="35" rx="10"></rect>
+                        <g id="加备份" transform="translate(11.000000, 11.375000)" stroke="#6F7D95" stroke-linecap="round" stroke-width="3">
+                            <g id="编组-24">
+                                <line x1="1.94289029e-16" y1="7" x2="14" y2="7" id="直线-2备份"></line>
+                                <line x1="7" y1="-6.21724894e-15" x2="7" y2="14" id="直线-2备份-2"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

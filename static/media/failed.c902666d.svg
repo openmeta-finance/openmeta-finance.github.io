@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fail</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Item-details详情页" transform="translate(-531.000000, -3615.000000)">
+            <g id="编组-14备份-4" transform="translate(431.000000, 3059.000000)">
+                <g id="编组-17备份-11" transform="translate(50.000000, 541.000000)">
+                    <g id="path33289" transform="translate(50.000000, 15.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <g id="编组" mask="url(#mask-2)" fill-rule="nonzero">
+                            <g transform="translate(3.000249, 3.000311)" id="路径">
+                                <path d="M11.9997509,1.75 C14.8303387,1.75 17.3928566,2.89728924 19.2476924,4.75212503 C21.1025524,6.60698508 22.2497146,9.16941246 22.2495018,11.9997509 C22.2495018,14.8302254 21.1022349,17.3928196 19.2473479,19.2477836 C17.3925269,21.1026816 14.8301274,22.25 11.9997509,22.25 C9.16953162,22.25 6.60709838,21.1026182 4.75221832,19.2476611 C2.89734415,17.39271 1.75,14.8301699 1.75,11.9997509 C1.75,9.16954817 2.89736657,6.60712834 4.75224745,4.75224745 C6.60712834,2.89736657 9.16954817,1.75 11.9997509,1.75 Z" stroke="#183B56" stroke-width="3.5" fill="none"></path>
+                                <polygon stroke="none" fill="#183B56" points="13.8997509 18.2996886 10.3997509 18.2996886 10.3997509 15.2996886 13.8997509 15.2996886"></polygon>
+                                <polygon stroke="none" fill="#183B56" points="13.8997509 13.7996886 10.3997509 13.7996886 10.0078734 5.79968863 14.2916285 5.79968863"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

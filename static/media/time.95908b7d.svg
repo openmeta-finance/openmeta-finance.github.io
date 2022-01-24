@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TIme</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home1" transform="translate(-515.000000, -2144.000000)">
+            <g id="1备份-5" transform="translate(433.000000, 1834.000000)">
+                <g id="编组-17" transform="translate(55.000000, 298.000000)">
+                    <g id="编组-4" transform="translate(27.000000, 11.000000)">
+                        <g id="TIme" transform="translate(0.000000, 1.000000)">
+                            <path d="M8,16 C3.58171875,16 0,12.4182812 0,8 C0,3.58171875 3.58171875,0 8,0 C12.4182812,0 16,3.58171875 16,8 C16,12.4182812 12.4182812,16 8,16 Z" id="路径" fill="#566FFE" fill-rule="nonzero"></path>
+                            <polyline id="路径-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="8 3.33333333 8 8.259067 10.6666667 10"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Link</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.720000 0 0 0 0 0.749474 0 0 0 0 0.800000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="20" height="20"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile" transform="translate(-1662.000000, -376.000000)">
+            <g id="编组-17" transform="translate(0.000000, 158.000000)">
+                <g id="编组-16" transform="translate(1633.000000, 93.000000)">
+                    <g id="Link" transform="translate(29.000000, 120.000000)" filter="url(#filter-1)">
+                        <g transform="translate(0.000000, 5.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <g id="蒙版"></g>
+                            <g id="编组-7" mask="url(#mask-3)" stroke="#979797" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                <g transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) translate(0.000000, 5.827815)">
+                                    <path d="M13.2348088,0 L15.8278146,0 C18.132049,-2.19963783e-15 20,1.86795104 20,4.17218543 C20,6.47641982 18.132049,8.34437086 15.8278146,8.34437086 L12.8261168,8.34437086 C10.2777666,8.34437086 8.21192053,6.27852481 8.21192053,3.73017457 L8.21192053,3.73017457 L8.21192053,3.73017457" id="路径"></path>
+                                    <path d="M5.02288822,0 L7.61589404,0 C9.92012843,-2.19963783e-15 11.7880795,1.86795104 11.7880795,4.17218543 C11.7880795,6.47641982 9.92012843,8.34437086 7.61589404,8.34437086 L4.6141963,8.34437086 C2.06584605,8.34437086 3.12082897e-16,6.27852481 0,3.73017457 L0,3.73017457 L0,3.73017457" id="路径备份" transform="translate(5.894040, 4.172185) scale(-1, -1) translate(-5.894040, -4.172185) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Clinch</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.094118 0 0 0 0 0.231373 0 0 0 0 0.337255 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Item-details详情页" transform="translate(-531.000000, -3495.000000)">
+            <g id="编组-14备份-4" transform="translate(431.000000, 3059.000000)">
+                <g id="Clinch" transform="translate(50.000000, 421.000000)" filter="url(#filter-1)">
+                    <g transform="translate(65.000000, 30.000000) scale(-1, 1) translate(-65.000000, -30.000000) translate(50.000000, 15.000000)" id="编组-22">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <g mask="url(#mask-3)" fill="#000000">
+                            <g transform="translate(0.307169, 0.482681)">
+                                <path d="M22.5526497,5.64702978 L22.5526497,13.0579679 L19.233,13.0579026 L19.2333025,27.1945478 L17.0662008,28.4099026 L14.8670519,27.1945478 L14.867,13.0579026 L11.3654561,13.0579679 L11.3654561,5.64702978 L22.5526497,5.64702978 Z M27,3.40990258 L26.8950978,15.0868787 L23.7721679,13.1835613 L23.8493544,5.59166049 L27,3.40990258 Z M7,3.62835084 L10.2767936,5.43580618 L10.1735795,13.2429627 L7.01926557,14.8996565 L7,3.62835084 Z" id="形状结合" fill-rule="evenodd" transform="translate(17.000000, 15.909903) rotate(-45.000000) translate(-17.000000, -15.909903) "></path>
+                                <rect id="矩形备份-4" fill-rule="evenodd" x="0" y="27.017319" width="17" height="2.5"></rect>
+                                <polygon id="路径备份-2" fill-rule="nonzero" transform="translate(13.374745, 23.835405) rotate(-45.000000) translate(-13.374745, -23.835405) " points="11.8747451 22.9564986 14.8747451 22.9564986 14.8747451 24.7143111 11.8747451 24.7143111"></polygon>
+                                <polygon id="路径备份-4" fill-rule="nonzero" transform="translate(4.374745, 23.835405) rotate(-135.000000) translate(-4.374745, -23.835405) " points="2.87474509 22.9564986 5.87474509 22.9564986 5.87474509 24.7143111 2.87474509 24.7143111"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

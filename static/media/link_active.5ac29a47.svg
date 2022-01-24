@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Link</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24" rx="12"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="单个Collection" transform="translate(-1947.000000, -430.000000)">
+            <g id="编组-14" transform="translate(1927.000000, 419.000000)">
+                <g id="Link" transform="translate(20.000000, 11.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="矩形" fill="#2E8CE0" xlink:href="#path-1"></use>
+                    <g id="编组-15" mask="url(#mask-2)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2">
+                        <g transform="translate(12.000000, 11.845942) rotate(-45.000000) translate(-12.000000, -11.845942) translate(4.000000, 9.045942)">
+                            <path d="M9.6,2.90322221 C9.6,4.39261146 8.39261146,5.6 6.90322221,5.6 L2.8,5.6 C1.2536027,5.6 1.8937905e-16,4.3463973 0,2.8 C-1.8937905e-16,1.2536027 1.2536027,7.28157785e-16 2.8,0 L4.47865025,0 L4.47865025,0" id="路径"></path>
+                            <path d="M16,2.90322221 C16,4.39261146 14.7926115,5.6 13.3032222,5.6 L9.2,5.6 C7.6536027,5.6 6.4,4.3463973 6.4,2.8 C6.4,1.2536027 7.6536027,2.84068575e-16 9.2,0 L10.8786503,0 L10.8786503,0" id="路径备份" transform="translate(11.200000, 2.800000) scale(-1, -1) translate(-11.200000, -2.800000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

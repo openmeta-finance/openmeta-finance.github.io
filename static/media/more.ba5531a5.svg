@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>更多跳转</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14"></rect>
+        <filter color-interpolation-filters="auto" id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home1首页" transform="translate(-1778.000000, -1181.000000)">
+            <g id="编组-26" transform="translate(1686.000000, 1171.000000)">
+                <g id="编组-23" transform="translate(44.000000, 0.000000)">
+                    <g id="更多跳转" transform="translate(48.000000, 10.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <g filter="url(#filter-3)" id="编组-27" stroke-linecap="round" stroke-linejoin="round">
+                            <g mask="url(#mask-2)">
+                                <g transform="translate(1.500000, 4.063062)" stroke="#FFFFFF" stroke-width="2">
+                                    <line x1="0" y1="3.73693773" x2="9.86070149" y2="3.73693773" id="直线"></line>
+                                    <polyline id="路径-6备份" points="7.41826815 0 11.4182681 3.66184255 7.41826815 7.38364964"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
