@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d99cc13.css",
-    "main.js": "/static/js/main.325906ec.js",
+    "main.js": "/static/js/main.c078cab6.js",
     "static/js/255.a2c40d58.chunk.js": "/static/js/255.a2c40d58.chunk.js",
     "static/media/unnamed.gif": "/static/media/unnamed.c96962e7b7acfa014edb.gif",
     "static/media/Alibaba.woff2": "/static/media/Alibaba.890ff9dbe023636f6e1c.woff2",
@@ -257,11 +257,11 @@
     "static/media/checkbox_default_dark.svg": "/static/media/checkbox_default_dark.2c79d6f42be939852faa718fe8d3b1b9.svg",
     "static/media/checkbox_default_light.svg": "/static/media/checkbox_default_light.343cc9a4c97db451ffc513576ba69f88.svg",
     "main.1d99cc13.css.map": "/static/css/main.1d99cc13.css.map",
-    "main.325906ec.js.map": "/static/js/main.325906ec.js.map",
+    "main.c078cab6.js.map": "/static/js/main.c078cab6.js.map",
     "255.a2c40d58.chunk.js.map": "/static/js/255.a2c40d58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d99cc13.css",
-    "static/js/main.325906ec.js"
+    "static/js/main.c078cab6.js"
   ]
 }
