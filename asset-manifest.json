@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7420b725.css",
-    "main.js": "/static/js/main.3462af71.js",
+    "main.js": "/static/js/main.047e73d3.js",
     "static/js/27.83c097c4.chunk.js": "/static/js/27.83c097c4.chunk.js",
     "static/media/unnamed.gif": "/static/media/unnamed.c96962e7b7acfa014edb.gif",
     "static/media/Alibaba.woff2": "/static/media/Alibaba.890ff9dbe023636f6e1c.woff2",
@@ -73,11 +73,13 @@
     "static/media/offshelf_light.svg": "/static/media/offshelf_light.52e9f3352c58075108fa2f80b9ccde9c.svg",
     "static/media/onshelf_dark.svg": "/static/media/onshelf_dark.10e8b18282e096607cc602e72a7bc30c.svg",
     "static/media/onshelf_light.svg": "/static/media/onshelf_light.58a97e4e8c14387789e178867f669bcf.svg",
+    "static/media/coinhub.svg": "/static/media/coinhub.ff4c8238a00e7faf42503acf164ad8a0.svg",
     "static/media/more_dark.svg": "/static/media/more_dark.539e4824b1581182e0671b0fc26030cb.svg",
     "static/media/more_light.svg": "/static/media/more_light.44cb6255fec88b0ce833f642f726d3cd.svg",
     "static/media/tool_dark.svg": "/static/media/tool_dark.539e4824b1581182e0671b0fc26030cb.svg",
     "static/media/tool_light.svg": "/static/media/tool_light.44cb6255fec88b0ce833f642f726d3cd.svg",
     "static/media/mdex.svg": "/static/media/mdex.15bae8c55c1f21464445ea14777ba168.svg",
+    "static/media/token_pocket.svg": "/static/media/token_pocket.50fbfd1ac57b513c8991a873327ad375.svg",
     "static/media/owners.svg": "/static/media/owners.45db731628d9e3bb29e1b440c3a2811c.svg",
     "static/media/coin_hub.svg": "/static/media/coin_hub.b2108ffbc7ca19508549de65100b8a1c.svg",
     "static/media/create_dark.svg": "/static/media/create_dark.0d0e98e085f72a12ecc071fb6bf10f81.svg",
@@ -108,7 +110,7 @@
     "static/media/heco_chain.svg": "/static/media/heco_chain.24558925df2caafd3071c536d50983a1.svg",
     "static/media/bit_keep.svg": "/static/media/bit_keep.a46c4ec75cd4836711a621a52cdac353.svg",
     "static/media/min_heco.svg": "/static/media/min_heco.caf0e4af3212c674549df6759e868f8c.svg",
-    "static/media/walletConnect.svg": "/static/media/walletConnect.9e62dec0a45988040e26915dce6612b1.svg",
+    "static/media/wallet_connect.svg": "/static/media/wallet_connect.9e62dec0a45988040e26915dce6612b1.svg",
     "static/media/plus_dark.svg": "/static/media/plus_dark.940095777765dbfc4d8a7f74b720396b.svg",
     "static/media/minus_dark.svg": "/static/media/minus_dark.2d204059fadb304fc753136fbf360aaa.svg",
     "static/media/plus_light.svg": "/static/media/plus_light.a0f537ed5dccaf9d7c4b836ec7d8f3d5.svg",
@@ -216,13 +218,11 @@
     "static/media/eth_chain.svg": "/static/media/eth_chain.cc301a3d9810dd827dbc1ba07dedd2b4.svg",
     "static/media/fall.svg": "/static/media/fall.4eb4ed601905660989098a4d1a758484.svg",
     "static/media/rise.svg": "/static/media/rise.21b1550e6bb6b12226db9f78dc053133.svg",
-    "static/media/Bnb.svg": "/static/media/Bnb.5c974000947fd1bd8a004f7621033ff2.svg",
     "static/media/user.svg": "/static/media/user.dade65b123f1c16281e71d6ec2064571.svg",
     "static/media/profile.svg": "/static/media/profile.2c6a577bc0d12d1da26e890ff63e3e18.svg",
     "static/media/email.svg": "/static/media/email.4a69e5039dc7e376da4e556950f63871.svg",
     "static/media/email_dark.svg": "/static/media/email_dark.1c62df2704d5742f333c534e5e2f4e16.svg",
     "static/media/email_light.svg": "/static/media/email_light.b4c1be5038ab2b120b9f35550a3c38bc.svg",
-    "static/media/token_pocket.svg": "/static/media/token_pocket.50fbfd1ac57b513c8991a873327ad375.svg",
     "static/media/dMetadata_dark.svg": "/static/media/dMetadata_dark.36e15887af2f5880406681f1275d9db9.svg",
     "static/media/dMetadata_light.svg": "/static/media/dMetadata_light.f4b03ca4ce30577493c5bbc5b4fc08f5.svg",
     "static/media/add.svg": "/static/media/add.274f8fc88f0a2494db99b40112d0ea2e.svg",
@@ -259,6 +259,6 @@
   },
   "entrypoints": [
     "static/css/main.7420b725.css",
-    "static/js/main.3462af71.js"
+    "static/js/main.047e73d3.js"
   ]
 }
