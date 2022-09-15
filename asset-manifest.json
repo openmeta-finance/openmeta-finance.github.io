@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7420b725.css",
-    "main.js": "/static/js/main.047e73d3.js",
+    "main.js": "/static/js/main.3006cf8d.js",
     "static/js/27.83c097c4.chunk.js": "/static/js/27.83c097c4.chunk.js",
     "static/media/unnamed.gif": "/static/media/unnamed.c96962e7b7acfa014edb.gif",
     "static/media/Alibaba.woff2": "/static/media/Alibaba.890ff9dbe023636f6e1c.woff2",
@@ -259,6 +259,6 @@
   },
   "entrypoints": [
     "static/css/main.7420b725.css",
-    "static/js/main.047e73d3.js"
+    "static/js/main.3006cf8d.js"
   ]
 }
