@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7420b725.css",
-    "main.js": "/static/js/main.30fd4ccb.js",
+    "main.css": "/static/css/main.e69d7d2e.css",
+    "main.js": "/static/js/main.6532bb43.js",
     "static/js/27.83c097c4.chunk.js": "/static/js/27.83c097c4.chunk.js",
+    "static/css/661.5d37b478.css": "/static/css/661.5d37b478.css",
+    "static/js/661.78b1361a.js": "/static/js/661.78b1361a.js",
     "static/media/unnamed.gif": "/static/media/unnamed.c96962e7b7acfa014edb.gif",
     "static/media/Alibaba.woff2": "/static/media/Alibaba.890ff9dbe023636f6e1c.woff2",
     "static/media/collection_bg_default.png": "/static/media/collection_bg_default.f3601e02ef577d72e365.png",
@@ -84,6 +86,7 @@
     "static/media/coin_hub.svg": "/static/media/coin_hub.b2108ffbc7ca19508549de65100b8a1c.svg",
     "static/media/create_dark.svg": "/static/media/create_dark.0d0e98e085f72a12ecc071fb6bf10f81.svg",
     "static/media/create_light.svg": "/static/media/create_light.7a6da3ca6b74e993be336c4c80738042.svg",
+    "static/media/trust_wallet.svg": "/static/media/trust_wallet.8ef9b1eab96064021d61f4a15e594e4c.svg",
     "static/media/mdx.svg": "/static/media/mdx.e69fb4788351189f862a541748910221.svg",
     "static/media/usd.svg": "/static/media/usd.5a9187fcbe109f72c37fc0ad03edc446.svg",
     "static/media/set_light.svg": "/static/media/set_light.c9a3bf50c6bdffc8714c2e62a7291469.svg",
@@ -169,6 +172,7 @@
     "static/media/auction_light.svg": "/static/media/auction_light.e78fb414a849638604d1a5e258dc508a.svg",
     "static/media/facebook_dark.svg": "/static/media/facebook_dark.f5d1502ee976f3f78c86ab78f8291434.svg",
     "static/media/facebook_light.svg": "/static/media/facebook_light.aa547dd426e2c550997699cb512713a3.svg",
+    "static/media/hyperpay.svg": "/static/media/hyperpay.5c7d9b945e6da0ad899412c8e6e085fd.svg",
     "static/media/auction_default.svg": "/static/media/auction_default.91d926fb02b5ce1d093d22c649d2c20d.svg",
     "static/media/show_focus.svg": "/static/media/show_focus.1ad6cf5ef0f0683b1d77fef0b1469dca.svg",
     "static/media/contract_dark.svg": "/static/media/contract_dark.94f23b60b73e328a1068c61108d82968.svg",
@@ -176,6 +180,7 @@
     "static/media/copy_active.svg": "/static/media/copy_active.8464f2ff50e2a63283cb29d6fd80d670.svg",
     "static/media/dShare_dark.svg": "/static/media/dShare_dark.f3f44aae691062cd029e5a91dd2c32b2.svg",
     "static/media/dShare_light.svg": "/static/media/dShare_light.e87bdc2e4f11642981501fb5f6e88f72.svg",
+    "index.html": "/index.html",
     "static/media/transaction_failed_dark.svg": "/static/media/transaction_failed_dark.81b1cd238e6875de1d50947e840a347c.svg",
     "static/media/transaction_failed_light.svg": "/static/media/transaction_failed_light.8aba7fed33411254316a44404ff67c5a.svg",
     "static/media/send_fail.svg": "/static/media/send_fail.93601aafceb532bde23fc7d5651a3141.svg",
@@ -195,7 +200,6 @@
     "static/media/bnb.svg": "/static/media/bnb.84889a8a8d80858c532f1f82ca09100a.svg",
     "static/media/refresh_light.svg": "/static/media/refresh_light.1400c3303d534a05dfbf4cc178207c9b.svg",
     "static/media/refresh_dark.svg": "/static/media/refresh_dark.b9b4ee17da9d4486c108a1d37e510249.svg",
-    "index.html": "/index.html",
     "static/media/detail_left_dark.svg": "/static/media/detail_left_dark.6f35bf7dcda8641d086602aa24f0fe34.svg",
     "static/media/detail_left_light.svg": "/static/media/detail_left_light.d22927faf90779ff3530f24e8df41308.svg",
     "static/media/detail_right_dark.svg": "/static/media/detail_right_dark.4a95b30a6bfdfc9cb88098929c36c1ef.svg",
@@ -258,7 +262,9 @@
     "static/media/checkbox_default_light.svg": "/static/media/checkbox_default_light.343cc9a4c97db451ffc513576ba69f88.svg"
   },
   "entrypoints": [
-    "static/css/main.7420b725.css",
-    "static/js/main.30fd4ccb.js"
+    "static/css/661.5d37b478.css",
+    "static/js/661.78b1361a.js",
+    "static/css/main.e69d7d2e.css",
+    "static/js/main.6532bb43.js"
   ]
 }
