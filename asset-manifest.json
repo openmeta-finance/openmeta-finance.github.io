@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e69d7d2e.css",
-    "main.js": "/static/js/main.6532bb43.js",
+    "main.js": "/static/js/main.8c68fc5c.js",
     "static/js/27.83c097c4.chunk.js": "/static/js/27.83c097c4.chunk.js",
-    "static/css/661.5d37b478.css": "/static/css/661.5d37b478.css",
+    "static/css/661.47d2b331.css": "/static/css/661.47d2b331.css",
     "static/js/661.78b1361a.js": "/static/js/661.78b1361a.js",
     "static/media/unnamed.gif": "/static/media/unnamed.c96962e7b7acfa014edb.gif",
     "static/media/Alibaba.woff2": "/static/media/Alibaba.890ff9dbe023636f6e1c.woff2",
     "static/media/collection_bg_default.png": "/static/media/collection_bg_default.f3601e02ef577d72e365.png",
     "static/media/404.png": "/static/media/404.80ff810510b2a196b365.png",
     "static/media/start_listing.png": "/static/media/start_listing.dc9a3fc3ae083ff46419.png",
+    "static/media/airdrop_faq.png": "/static/media/airdrop_faq.f50b36c6ae43cadd393d.png",
     "static/media/banner_default.png": "/static/media/banner_default.b531bbff82bf1486f295.png",
     "static/media/open_bg_en.png": "/static/media/open_bg_en.38fc3682983ada2fc865.png",
     "static/media/open_bg_zh.png": "/static/media/open_bg_zh.eb109f91b055997fb131.png",
@@ -42,6 +43,7 @@
     "static/media/photography.svg": "/static/media/photography.bfc5f05750227e5fb0510dcffee4aa9f.svg",
     "static/media/category.svg": "/static/media/category.2a75e6f1ce9926bd2dbdb62f0e07dfc8.svg",
     "static/media/collection.svg": "/static/media/collection.c142ba74987e41150a3669b08fa8ba5a.svg",
+    "static/media/hot.svg": "/static/media/hot.ca43b487e4dff85d948511965575c5c6.svg",
     "static/media/virtual_reality.svg": "/static/media/virtual_reality.65edf6eb3448d7edc566da9bd9ce4e1c.svg",
     "static/media/start.svg": "/static/media/start.ef6a85f473c8ff0adb04ffbac9001f66.svg",
     "static/media/contract_warn_dark.svg": "/static/media/contract_warn_dark.958005a2da0adcf054a3727ec2b8730f.svg",
@@ -64,6 +66,7 @@
     "static/media/metamask.svg": "/static/media/metamask.29e246ce06f0f5e39f9942d24058d10b.svg",
     "static/media/itoken.svg": "/static/media/itoken.6f68479616fdca6b20d05c5ea62bc76f.svg",
     "static/media/language.svg": "/static/media/language.59c77d18e9ff468f4b926f9a23563a7c.svg",
+    "static/media/hot_tips.svg": "/static/media/hot_tips.3f215cc9db3c6e979bd46d96e08ae311.svg",
     "static/media/coin98.svg": "/static/media/coin98.738edb7dc1978d147abcb8975daf83ba.svg",
     "static/media/discord.svg": "/static/media/discord.9d3255d0742e1268e2516f6010957ed1.svg",
     "static/media/discord_dark.svg": "/static/media/discord_dark.6bced3fa3d73070773c2a11930550439.svg",
@@ -232,6 +235,8 @@
     "static/media/add.svg": "/static/media/add.274f8fc88f0a2494db99b40112d0ea2e.svg",
     "static/media/busd.svg": "/static/media/busd.fd65b0b574a0e808236caaae204fdc2b.svg",
     "static/media/search.svg": "/static/media/search.80ff91872eb4c1de87a92617ed04e00a.svg",
+    "static/media/airdrop_down_dark.svg": "/static/media/airdrop_down_dark.e6c4c0eb4fbe1e425bc7aad5eab16c5e.svg",
+    "static/media/airdrop_down_light.svg": "/static/media/airdrop_down_light.1b4709fd1fcbd786b6ba36d3b7bd1089.svg",
     "static/media/card_default.svg": "/static/media/card_default.7fa2402c9492f720a8c377a3238137cd.svg",
     "static/media/falls_default.svg": "/static/media/falls_default.6e0d3b726053120b5bbb9826be343c9a.svg",
     "static/media/card_dark.svg": "/static/media/card_dark.f83b00333e7058ed8a318dc6eb93a792.svg",
@@ -240,6 +245,7 @@
     "static/media/falls_light.svg": "/static/media/falls_light.ba94e020f113ab1ca266e5a50fbcae5f.svg",
     "static/media/filter_dark.svg": "/static/media/filter_dark.58b7d3c73af619ee193ff9d866659601.svg",
     "static/media/filter_light.svg": "/static/media/filter_light.05abfe1d7e963c18a056f6540c48052a.svg",
+    "static/media/airdrop_up.svg": "/static/media/airdrop_up.a280303559d2e456d9374a13b0c38601.svg",
     "static/media/checkbox_dark.svg": "/static/media/checkbox_dark.a5329d98b98116ef614cd10414f447a4.svg",
     "static/media/checkbox_light.svg": "/static/media/checkbox_light.535c470dda3f94509838d5973968bdc7.svg",
     "static/media/right1_dark.svg": "/static/media/right1_dark.5c009ce2d8a43dfc3d3323e854985e82.svg",
@@ -262,9 +268,9 @@
     "static/media/checkbox_default_light.svg": "/static/media/checkbox_default_light.343cc9a4c97db451ffc513576ba69f88.svg"
   },
   "entrypoints": [
-    "static/css/661.5d37b478.css",
+    "static/css/661.47d2b331.css",
     "static/js/661.78b1361a.js",
     "static/css/main.e69d7d2e.css",
-    "static/js/main.6532bb43.js"
+    "static/js/main.8c68fc5c.js"
   ]
 }
