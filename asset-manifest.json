@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e69d7d2e.css",
-    "main.js": "/static/js/main.e2847f55.js",
+    "main.js": "/static/js/main.9b3c076b.js",
     "static/js/27.83c097c4.chunk.js": "/static/js/27.83c097c4.chunk.js",
     "static/css/436.f93c06c9.css": "/static/css/436.f93c06c9.css",
     "static/js/436.ccbc0044.js": "/static/js/436.ccbc0044.js",
@@ -71,6 +71,8 @@
     "static/media/itoken.svg": "/static/media/itoken.6f68479616fdca6b20d05c5ea62bc76f.svg",
     "static/media/language.svg": "/static/media/language.59c77d18e9ff468f4b926f9a23563a7c.svg",
     "static/media/hot_tips.svg": "/static/media/hot_tips.3f215cc9db3c6e979bd46d96e08ae311.svg",
+    "static/media/receive_disabled.svg": "/static/media/receive_disabled.3e07f0c882817ff5a6ae696f0f95eb2e.svg",
+    "static/media/receive_primary3.svg": "/static/media/receive_primary3.9357ca3cc2abe416a71f4e62aba39aae.svg",
     "static/media/coin98.svg": "/static/media/coin98.738edb7dc1978d147abcb8975daf83ba.svg",
     "static/media/discord.svg": "/static/media/discord.9d3255d0742e1268e2516f6010957ed1.svg",
     "static/media/discord_dark.svg": "/static/media/discord_dark.6bced3fa3d73070773c2a11930550439.svg",
@@ -104,12 +106,13 @@
     "static/media/backtop_dark.svg": "/static/media/backtop_dark.8f3bd855f7e562d08778e2df2ae2a195.svg",
     "static/media/copy_link.svg": "/static/media/copy_link.5ac29a4773fe7435ac577ffedd642dcc.svg",
     "static/media/edit_default.svg": "/static/media/edit_default.6bd6f0c7e68b85079b5181340b1b0c93.svg",
+    "static/media/edit_primary2.svg": "/static/media/edit_primary2.6fc620ada1438a31e84fb9e40417463e.svg",
+    "static/media/edit_primary1.svg": "/static/media/edit_primary1.2b298f9fd6df3a84cf0c19eef5b4a1d2.svg",
     "static/media/fixed_dark.svg": "/static/media/fixed_dark.f7b471fc677acf8fde346093f66b745c.svg",
     "static/media/fixed_light.svg": "/static/media/fixed_light.947698e7fc81effffb8543459e7099d8.svg",
     "static/media/github_dark.svg": "/static/media/github_dark.5ce60e5dcfe04eaf513a5eff79819287.svg",
     "static/media/github_light.svg": "/static/media/github_light.fd3c282d42ff1d3a5b2470d07ecc12f6.svg",
     "static/media/fixed_default.svg": "/static/media/fixed_default.7f7588dfc55f830398a7c7058b229bf7.svg",
-    "static/media/edit_primary1.svg": "/static/media/edit_primary1.1cc552367ed645034d1f2c00a2bd592f.svg",
     "static/media/dCart_dark.svg": "/static/media/dCart_dark.bddb00ab34fe9959e6be0e8e7a744670.svg",
     "static/media/dCart_light.svg": "/static/media/dCart_light.6bae44ccb4e4ceb4ba3e9b3c34c00699.svg",
     "static/media/theme_dark.svg": "/static/media/theme_dark.678131cb543497d870d328399c04c4be.svg",
@@ -157,6 +160,8 @@
     "static/media/user_dark.svg": "/static/media/user_dark.dc43cbeb9c32e5342be0aaecb9954255.svg",
     "static/media/website_dark.svg": "/static/media/website_dark.7e0ba942bd95ae86570f0988b214b509.svg",
     "static/media/website_light.svg": "/static/media/website_light.3d311d2036c83eeea164dec875b7adbe.svg",
+    "static/media/share_border1.svg": "/static/media/share_border1.267dbcdfe3b0c862fc99864aa6f07f46.svg",
+    "static/media/share_primary1.svg": "/static/media/share_primary1.6c1c0ddf16543aa7f68f2b8a7549523d.svg",
     "static/media/time.svg": "/static/media/time.972679fb38de739a406bc9369779af10.svg",
     "static/media/send_submit.svg": "/static/media/send_submit.f343e2d5a99cb4b03667d26aad3476db.svg",
     "static/media/user_light.svg": "/static/media/user_light.c9edb379c35473b1a716c9309433fcd3.svg",
@@ -167,7 +172,6 @@
     "static/media/bid_link.svg": "/static/media/bid_link.cc06ec28884817de488c91fd51c8a199.svg",
     "static/media/bid_primary2.svg": "/static/media/bid_primary2.de6f3ad7506250fbefb193246f3f47e2.svg",
     "static/media/fixed_primary1.svg": "/static/media/fixed_primary1.6f49ff183e98df2ab25b62e54ff8c0ad.svg",
-    "static/media/share_border1.svg": "/static/media/share_border1.312682c86c9fd16071bcb907bc72c470.svg",
     "static/media/put_away.svg": "/static/media/put_away.2fd695e8985da9c2ca0f0aeeeda60fbb.svg",
     "static/media/put_down.svg": "/static/media/put_down.50c89248b3a00aa9d522fcd786e4628c.svg",
     "static/media/share_dark.svg": "/static/media/share_dark.d5f381b115c30347c13a93fbe1cc8507.svg",
@@ -284,6 +288,6 @@
     "static/css/436.f93c06c9.css",
     "static/js/436.ccbc0044.js",
     "static/css/main.e69d7d2e.css",
-    "static/js/main.e2847f55.js"
+    "static/js/main.9b3c076b.js"
   ]
 }
