@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.e69d7d2e.css",
-    "main.js": "/static/js/main.5e1446a7.js",
+    "main.js": "/static/js/main.6a105b7e.js",
     "static/js/27.83c097c4.chunk.js": "/static/js/27.83c097c4.chunk.js",
     "static/css/868.2e0d3a08.css": "/static/css/868.2e0d3a08.css",
-    "static/js/868.2383d70b.js": "/static/js/868.2383d70b.js",
+    "static/js/868.11fb8556.js": "/static/js/868.11fb8556.js",
     "static/media/Alibaba.woff2": "/static/media/Alibaba.890ff9dbe023636f6e1c.woff2",
     "static/media/collection_bg_default.png": "/static/media/collection_bg_default.f3601e02ef577d72e365.png",
     "static/media/farm_bg.png": "/static/media/farm_bg.12a7dd685df38a9e69bd.png",
@@ -289,8 +289,8 @@
   },
   "entrypoints": [
     "static/css/868.2e0d3a08.css",
-    "static/js/868.2383d70b.js",
+    "static/js/868.11fb8556.js",
     "static/css/main.e69d7d2e.css",
-    "static/js/main.5e1446a7.js"
+    "static/js/main.6a105b7e.js"
   ]
 }
