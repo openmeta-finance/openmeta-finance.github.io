@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.e69d7d2e.css",
-    "main.js": "/static/js/main.109ae5ad.js",
+    "main.js": "/static/js/main.c8f2f905.js",
     "static/js/27.83c097c4.chunk.js": "/static/js/27.83c097c4.chunk.js",
-    "static/css/648.2d821d84.css": "/static/css/648.2d821d84.css",
-    "static/js/648.219e2576.js": "/static/js/648.219e2576.js",
+    "static/css/427.23277670.css": "/static/css/427.23277670.css",
+    "static/js/427.78bce388.js": "/static/js/427.78bce388.js",
     "static/media/Alibaba.woff2": "/static/media/Alibaba.890ff9dbe023636f6e1c.woff2",
     "static/media/cart_no_data.svg": "/static/media/cart_no_data.0bd39908f4c23e16b6eca23745ee5901.svg",
     "static/media/collection_bg_default.png": "/static/media/collection_bg_default.f3601e02ef577d72e365.png",
@@ -302,9 +302,9 @@
     "static/media/checkbox_default_light.svg": "/static/media/checkbox_default_light.343cc9a4c97db451ffc513576ba69f88.svg"
   },
   "entrypoints": [
-    "static/css/648.2d821d84.css",
-    "static/js/648.219e2576.js",
+    "static/css/427.23277670.css",
+    "static/js/427.78bce388.js",
     "static/css/main.e69d7d2e.css",
-    "static/js/main.109ae5ad.js"
+    "static/js/main.c8f2f905.js"
   ]
 }
