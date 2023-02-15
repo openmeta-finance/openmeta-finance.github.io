@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e69d7d2e.css",
-    "main.js": "/static/js/main.86073c16.js",
+    "main.js": "/static/js/main.f056332b.js",
     "static/js/27.83c097c4.chunk.js": "/static/js/27.83c097c4.chunk.js",
     "static/css/757.23277670.css": "/static/css/757.23277670.css",
     "static/js/757.5849049e.js": "/static/js/757.5849049e.js",
@@ -63,6 +63,7 @@
     "static/media/box_soldout_en.svg": "/static/media/box_soldout_en.f531459fbdfa40c1750bfc493f438e96.svg",
     "static/media/box_soldout_zh.svg": "/static/media/box_soldout_zh.dc79588a0c2ba8a41152728a21bc7246.svg",
     "static/media/box_end_zh.svg": "/static/media/box_end_zh.ac6414f9888523bf331937ae403cd460.svg",
+    "static/media/arbitrum_chain.png": "/static/media/arbitrum_chain.3ac03c644af51c36cd2c.png",
     "static/media/box_end_en.svg": "/static/media/box_end_en.82e041c62a2919f8c900a6cfd1857765.svg",
     "static/media/onto_dark.svg": "/static/media/onto_dark.04460009aab3a293d8214a2ce50ebb11.svg",
     "static/media/math_wallet_light.svg": "/static/media/math_wallet_light.a55308b25ed7672aa6bc5989f8c0e1e5.svg",
@@ -297,6 +298,6 @@
     "static/css/757.23277670.css",
     "static/js/757.5849049e.js",
     "static/css/main.e69d7d2e.css",
-    "static/js/main.86073c16.js"
+    "static/js/main.f056332b.js"
   ]
 }
